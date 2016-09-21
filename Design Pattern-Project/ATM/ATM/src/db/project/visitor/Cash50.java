@@ -1,6 +1,6 @@
 package db.project.visitor;
 
-public class Cash50 implements IMoney {
+public class Cash50 implements IMoney  {
 	
 	private int amount;
 	
